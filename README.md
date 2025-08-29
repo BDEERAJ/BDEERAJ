@@ -1,6 +1,6 @@
 <!-- Cool coding GIF banner -->
 <div align="center">
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="600" height="300" alt="dark coding gif"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGdhMG92MW5pa2dhazE3dnR3ejBzbDMxOHRyMXVheXZpN3VtenBnZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" width="600" height="300" alt="dark coding gif"/>
 </div>
 
 <h3>🚀 MERN Stack Developer | 🎓 BCA (Data Science) Student | 💻 DSA Enthusiast</h3>
